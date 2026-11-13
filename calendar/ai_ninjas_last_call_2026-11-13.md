@@ -1,19 +1,19 @@
 # AI Ninjas: ostatni dzień -30% na pierwszy miesiąc (13.11.2026, piątek)
 
-Kontekst: we wtorek 10.11 był warsztat „Agent AI w Twojej firmie” (Hermes). Do północy 10.11 było -30% na 3 miesiące. Teraz, do 13.11 23:59, zostaje -30% tylko na pierwszy miesiąc: **104,30 zł zamiast 149 zł**.
+Kontekst: we wtorek 10.11 był warsztat "Agent AI w Twojej firmie" (Hermes). Do północy 10.11 było -30% na 3 miesiące. Teraz, do 13.11 23:59, zostaje -30% tylko na pierwszy miesiąc: **104,30 zł zamiast 149 zł**.
 
 **Szkice w MailerLite (konto AI Ninjas), wszystkie jako draft, nic nie jest zaplanowane:**
 
 | # | Godzina | Kampania | Temat | Na jakie obiekcje odpowiada |
 |---|---------|----------|-------|------------------------------|
 | 1 | 13:30 | live13 - 18 | 🥷 Agent z wtorku może pracować u Ciebie | Recap agenta, warsztat pogłębiający z Hermesa, czym jest AI Ninjas |
-| 2 | 17:00 | live13 - 19 | 🥷 „Nie mam czasu na kolejny kurs” | Community to nie kurs, jak to działa w praktyce |
-| 3 | 20:00 | live13 - 20 | 🥷 „To nie dla mnie, nie jestem techniczny” | 60% osób na poziomie podstawowym, forum, 14 dni zwrotu, darmowa lekcja |
+| 2 | 17:00 | live13 - 19 | 🥷 "Nie mam czasu na kolejny kurs" | Community to nie kurs, jak to działa w praktyce |
+| 3 | 20:00 | live13 - 20 | 🥷 "To nie dla mnie, nie jestem techniczny" | 60% osób na poziomie podstawowym, forum, 14 dni zwrotu, darmowa lekcja |
 | 4 | 22:30 | live13 - 21 | 🔴 Zostało 1,5 h. Potem 149 zł | Ostatnie przypomnienie, krótko |
 
-- **Odbiorcy:** segment „Bez Belt Members (do kampanii sprzedażowych)”, 2957 osób. Nie wyklucza grupy Community (124 osoby), którą 10.11 wykluczono ręcznie.
-- **Link do oferty:** https://easl.ink/lVUZY (link „-30% na pierwszy miesiąc” z maili z 10.11).
-- **Nadawca i podpis:** AI Ninjas, kontakt@aininjas.pl. Podpis: „Krzysiek z AI Ninjas”.
+- **Odbiorcy:** segment "Bez Belt Members (do kampanii sprzedażowych)", 2957 osób. Nie wyklucza grupy Community (124 osoby), którą 10.11 wykluczono ręcznie.
+- **Link do oferty:** https://easl.ink/lVUZY (link "-30% na pierwszy miesiąc" z maili z 10.11).
+- **Nadawca i podpis:** AI Ninjas, kontakt@aininjas.pl. Podpis: "Krzysiek z AI Ninjas".
 
 Fakty użyte w mailach pochodzą z poprzednich kampanii:
 - 149 zł/msc
@@ -24,7 +24,7 @@ Fakty użyte w mailach pochodzą z poprzednich kampanii:
 - 19 nagrań warsztatów
 - 60% członków na poziomie podstawowym
 - skille z demo 10.11 publikowane w środku
-- pogłębiony warsztat z konfiguracji Hermesa „za tydzień”
+- pogłębiony warsztat z konfiguracji Hermesa "za tydzień"
 - lekcja R-F-K-A bez logowania
 
 ---
@@ -40,7 +40,9 @@ Cześć {$name},
 
 we wtorek pokazaliśmy agenta AI w pracy. Przygotowywał plan dnia i prasówkę z branży, wyłapywał klientów czekających na odpowiedź, robił research konferencji i zbierał pomysły z komentarzy. A Ty po prostu piszesz do niego przez komunikator w telefonie.
 
-Jeśli po warsztacie zostało Ci w głowie „chcę to mieć u siebie, tylko od czego zacząć?”, mamy konkretną odpowiedź.
+▶ Nagranie warsztatu: youtu.be/S_BwUYeFu0c
+
+Jeśli po warsztacie zostało Ci w głowie "chcę to mieć u siebie, tylko od czego zacząć?", mamy konkretną odpowiedź.
 
 **W przyszłym tygodniu robimy w AI Ninjas warsztat pogłębiający z Hermesa.** Przejdziemy krok po kroku przez konfigurację, tak żeby taki agent działał u Ciebie. O swój przypadek pytasz na żywo. Skille z wtorkowego demo też wrzucamy do środka.
 
@@ -60,20 +62,19 @@ Od drugiego miesiąca 149 zł. Rezygnujesz jednym kliknięciem.
 Do usłyszenia,
 Krzysiek z AI Ninjas
 
-PS. Nie było Cię na warsztacie? Nagranie jest tutaj (https://youtu.be/S_BwUYeFu0c).
 
 ---
 
 ## MAIL 2: 17:00
 
-**Temat:** 🥷 „Nie mam czasu na kolejny kurs”
+**Temat:** 🥷 "Nie mam czasu na kolejny kurs"
 **Preheader:** Dobrze się składa. AI Ninjas działa inaczej niż kurs.
 
 **[H1] Nie masz czasu na kolejny kurs? Dobrze się składa**
 
 Cześć {$name},
 
-najczęściej słyszymy jedno: „Fajne, ale nie mam czasu na kolejny kurs”.
+najczęściej słyszymy jedno: "Fajne, ale nie mam czasu na kolejny kurs".
 
 Rozumiemy. Pewnie gdzieś leży kurs kupiony z dobrymi intencjami, który dalej czeka na wolny weekend.
 
@@ -103,20 +104,21 @@ Rezygnujesz jednym kliknięciem, bez okresu wypowiedzenia.
 Do usłyszenia,
 Krzysiek z AI Ninjas
 
-PS. Masz pytanie, zanim dołączysz? Odpisz na tego maila.
+PS. ▶ Nagranie wtorkowego warsztatu: youtu.be/S_BwUYeFu0c
+Masz pytanie, zanim dołączysz? Odpisz na tego maila.
 
 ---
 
 ## MAIL 3: 20:00
 
-**Temat:** 🥷 „To nie dla mnie, nie jestem techniczny”
+**Temat:** 🥷 "To nie dla mnie, nie jestem techniczny"
 **Preheader:** 60% osób w AI Ninjas jest na poziomie podstawowym. Do 23:59 -30%.
 
-**[H1] „To nie dla mnie, nie jestem techniczny”**
+**[H1] "To nie dla mnie, nie jestem techniczny"**
 
 Cześć {$name},
 
-na wtorkowym warsztacie agent robił sporo rzeczy naraz. Łatwo wtedy pomyśleć: „fajne, ale to dla kogoś bardziej technicznego”.
+na wtorkowym warsztacie agent robił sporo rzeczy naraz. Łatwo wtedy pomyśleć: "fajne, ale to dla kogoś bardziej technicznego".
 
 Jeśli też tak pomyślałeś, ten mail jest dla Ciebie. Trzy rzeczy, które warto wiedzieć:
 
@@ -142,6 +144,8 @@ Rezygnujesz jednym kliknięciem w ustawieniach.
 
 Do usłyszenia,
 Krzysiek z AI Ninjas
+
+PS. ▶ Nagranie wtorkowego warsztatu: youtu.be/S_BwUYeFu0c
 
 ---
 
@@ -177,3 +181,5 @@ A jeśli nie teraz, w porządku. Dalej będziesz dostawać od nas darmowe lekcje
 
 Do usłyszenia,
 Krzysiek z AI Ninjas
+
+PS. ▶ Nagranie wtorkowego warsztatu: youtu.be/S_BwUYeFu0c

@@ -1,213 +1,179 @@
-# AI Ninjas: ostatni dzień -30% (13.11.2026, piątek)
+# AI Ninjas: ostatni dzień -30% na pierwszy miesiąc (13.11.2026, piątek)
 
-4 maile na dzisiaj. Każdy odpowiada na inne obiekcje. Styl jak w newsletterze Detechtive: „Cześć!”, pierwsza osoba, krótkie akapity, 🕵️‍♂️ w temacie.
+Kontekst: we wtorek 10.11 był warsztat „Agent AI w Twojej firmie” (Hermes). Do północy 10.11 było -30% na 3 miesiące. Teraz, do 13.11 23:59, zostaje -30% tylko na pierwszy miesiąc: **104,30 zł zamiast 149 zł**.
 
-Lista: grupa Detechtive, ok. 1300 aktywnych, open rate w ostatnich tygodniach 34–41%.
+**Szkice w MailerLite (konto AI Ninjas), wszystkie jako draft, nic nie jest zaplanowane:**
 
----
+| # | Godzina | Kampania | Temat | Na jakie obiekcje odpowiada |
+|---|---------|----------|-------|------------------------------|
+| 1 | 13:30 | live13 - 18 | 🥷 Agent z wtorku może pracować u Ciebie | Recap agenta, warsztat pogłębiający z Hermesa, czym jest AI Ninjas |
+| 2 | 17:00 | live13 - 19 | 🥷 „Nie mam czasu na kolejny kurs” | Community to nie kurs, jak to działa w praktyce |
+| 3 | 20:00 | live13 - 20 | 🥷 „To nie dla mnie, nie jestem techniczny” | 60% osób na poziomie podstawowym, forum, 14 dni zwrotu, darmowa lekcja |
+| 4 | 22:30 | live13 - 21 | 🔴 Zostało 1,5 h. Potem 149 zł | Ostatnie przypomnienie, krótko |
 
-## ⚠️ Uzupełnij przed wysyłką (Znajdź i zamień w całym pliku)
+- **Odbiorcy:** segment „Bez Belt Members (do kampanii sprzedażowych)”, 2957 osób. Nie wyklucza grupy Community (124 osoby), którą 10.11 wykluczono ręcznie.
+- **Link do oferty:** https://easl.ink/lVUZY (link „-30% na pierwszy miesiąc” z maili z 10.11).
+- **Nadawca i podpis:** AI Ninjas, kontakt@aininjas.pl. Podpis: „Krzysiek z AI Ninjas”.
 
-| Token | Co wpisać |
-|-------|-----------|
-| `[LINK]` | Link do zakupu z rabatem |
-| `[CENA]` | Cena regularna za miesiąc, np. `59` |
-| `[CENA -30%]` | Cena po rabacie, np. `41,30` |
-| `[CENA DZIENNIE]` | `[CENA -30%]` / 30, np. `1,38` |
-| `[GODZINA KOŃCA]` | Np. `23:59` |
-| `[PUNKT 1]`, `[PUNKT 2]`, `[PUNKT 3]` | Co konkretnie jest w AI Ninjas (format, częstotliwość, pliki, dostęp) |
-| `[RÓŻNICA]` | Jedno zdanie: co AI Ninjas daje ponad darmowy newsletter |
-| `[FORMAT]` | Np. „jeden mail w tygodniu, czytasz w 10 minut” |
-| `[ANULOWANIE]` | Np. „Rezygnujesz jednym kliknięciem, bez okresu wypowiedzenia.” (wpisz tylko, jeśli to prawda) |
-
-**Do sprawdzenia:** czy -30% dotyczy tylko pierwszego miesiąca, czy każdego miesiąca, dopóki ktoś subskrybuje? Maile są napisane pod wariant „pierwszy miesiąc”. Jeśli rabat zostaje na stałe, to mocniejszy argument. Zamień wtedy „za pierwszy miesiąc” na „co miesiąc, dopóki jesteś w środku”.
-
----
-
-## 🕐 Harmonogram (czas polski)
-
-| # | Godzina | Obiekcje, na które odpowiada |
-|---|---------|------------------------------|
-| 1 | 12:30 | „Darmowy newsletter mi wystarcza”, „Co ja z tego mam?” |
-| 2 | 15:30 | „Nie mam czasu”, „Za drogo” |
-| 3 | 19:00 | „Nie jestem programistą”, „AI się zmienia, to się zdezaktualizuje”, „Na YouTube jest za darmo”, „A jak mi się nie spodoba?”, „Dołączę później” |
-| 4 | 22:00 | Odkładanie na później. Ostatnie przypomnienie, krótko |
-
-**Segmentacja:**
-- Jeśli masz grupę kupujących (np. z webhooka z płatności), wyklucz ją z maili 2–4.
-- Jeśli nie masz, zostaw w mailach 2–4 linijkę „Jeśli już dołączyłeś, dzięki. Ten mail możesz pominąć.” (jest już w treści).
-- Mail 4 wysyłaj do wszystkich. Ostatnie przypomnienie zwykle sprzedaje najwięcej.
+Fakty użyte w mailach pochodzą z poprzednich kampanii:
+- 149 zł/msc
+- 14 dni gwarancji zwrotu 100%
+- rezygnacja jednym kliknięciem
+- Weekly co tydzień
+- warsztat co 2 tygodnie
+- 19 nagrań warsztatów
+- 60% członków na poziomie podstawowym
+- skille z demo 10.11 publikowane w środku
+- pogłębiony warsztat z konfiguracji Hermesa „za tydzień”
+- lekcja R-F-K-A bez logowania
 
 ---
 
-## MAIL 1: 12:30
+## MAIL 1: 13:30
 
-**Temat A:** 🕵️‍♂️ Ostatni dzień: AI Ninjas 30% taniej
-**Temat B:** 🕵️‍♂️ Do [GODZINA KOŃCA]: pierwszy miesiąc AI Ninjas -30%
-**Preheader:** Darmowy newsletter zostaje. To jest dla osób, które chcą wdrażać.
+**Temat:** 🥷 Agent z wtorku może pracować u Ciebie
+**Preheader:** W przyszłym tygodniu stawiamy go krok po kroku. Dziś ostatni dzień -30%.
 
----
+**[H1] Agent z wtorku może pracować u Ciebie**
 
-Cześć!
+Cześć {$name},
 
-Krótko, bo to mail z jedną konkretną informacją.
+we wtorek pokazaliśmy agenta AI w pracy. Przygotowywał plan dnia i prasówkę z branży, wyłapywał klientów czekających na odpowiedź, robił research konferencji i zbierał pomysły z komentarzy. A Ty po prostu piszesz do niego przez komunikator w telefonie.
 
-Dzisiaj do [GODZINA KOŃCA] możesz dołączyć do AI Ninjas z rabatem 30% na pierwszy miesiąc. Od jutra cena wraca do [CENA] zł.
+Jeśli po warsztacie zostało Ci w głowie „chcę to mieć u siebie, tylko od czego zacząć?”, mamy konkretną odpowiedź.
 
-**Czym AI Ninjas różni się od tego newslettera?**
+**W przyszłym tygodniu robimy w AI Ninjas warsztat pogłębiający z Hermesa.** Przejdziemy krok po kroku przez konfigurację, tak żeby taki agent działał u Ciebie. O swój przypadek pytasz na żywo. Skille z wtorkowego demo też wrzucamy do środka.
 
-Tutaj pokazuję, co się pojawiło i jak to działa. W ostatnich tygodniach były to m.in. Herdr, Kling 4.0 i strony z Claude Code, które nie wyglądają jak AI slop.
+**[H2] Czym w ogóle jest AI Ninjas?**
 
-W AI Ninjas [RÓŻNICA].
+To się często myli, więc krótko: to społeczność, a nie kurs do przerobienia od deski do deski.
 
-**Co dostajesz:**
+Co tydzień spotykamy się na żywo na Weekly. Co 2 tygodnie robimy warsztat z ekspertem. Gdy coś nie działa, pytasz na forum. Kursy i gotowe procedury też są w środku, ale sięgasz po nie wtedy, kiedy ich potrzebujesz.
 
-→ [PUNKT 1]
-→ [PUNKT 2]
-→ [PUNKT 3]
+> **Dziś ostatni dzień zniżki.** Do 23:59 pierwszy miesiąc kosztuje **104,30 zł zamiast 149 zł**. Oferta na 3 miesiące skończyła się we wtorek, a to ostatnia okazja, żeby wejść taniej.
 
-Darmowy newsletter nigdzie nie znika. Dalej będziesz dostawać ode mnie poradniki i filmy.
+**[Przycisk] Dołączam za 104,30 zł →**
 
-AI Ninjas jest dla osób, które chcą nie tylko wiedzieć, co wyszło, ale mieć to u siebie ustawione i działające.
-
-**Dzisiaj:** [CENA -30%] zł zamiast [CENA] zł za pierwszy miesiąc.
-
-**[PRZYCISK] Dołączam do AI Ninjas -30%** → [LINK]
+Od drugiego miesiąca 149 zł. Rezygnujesz jednym kliknięciem.
+14 dni gwarancji zwrotu, 100%, bez pytań.
 
 Do usłyszenia,
-[PODPIS]
+Krzysiek z AI Ninjas
 
-PS. Rabat działa tylko dzisiaj do [GODZINA KOŃCA]. Jutro link pokaże już pełną cenę.
-
----
-
-## MAIL 2: 15:30
-
-**Temat A:** 🕵️‍♂️ „Nie mam czasu na kolejny newsletter”
-**Temat B:** 🕵️‍♂️ Ile naprawdę kosztuje AI Ninjas? Policzyłem
-**Preheader:** Dwie rzeczy, które pewnie przeszły Ci przez głowę przy poprzednim mailu.
+PS. Nie było Cię na warsztacie? Nagranie jest tutaj (https://youtu.be/S_BwUYeFu0c).
 
 ---
 
-Cześć!
+## MAIL 2: 17:00
 
-Kilka godzin temu pisałem o AI Ninjas. Jeśli się wahasz, to pewnie z jednego z tych dwóch powodów.
+**Temat:** 🥷 „Nie mam czasu na kolejny kurs”
+**Preheader:** Dobrze się składa. AI Ninjas działa inaczej niż kurs.
 
-**1. „Nie mam czasu czytać kolejnego newslettera.”**
+**[H1] Nie masz czasu na kolejny kurs? Dobrze się składa**
 
-Rozumiem. Masz już pełną skrzynkę, kursy, które czekają, i zakładki „przeczytam później”.
+Cześć {$name},
 
-Dlatego AI Ninjas to [FORMAT].
+najczęściej słyszymy jedno: „Fajne, ale nie mam czasu na kolejny kurs”.
 
-Nie musisz śledzić 20 kanałów na YouTube i testować każdego nowego narzędzia. Ja to testuję. Ty dostajesz to, co działa.
+Rozumiemy. Pewnie gdzieś leży kurs kupiony z dobrymi intencjami, który dalej czeka na wolny weekend.
 
-Policz to tak: jeśli jedna rzecz z AI Ninjas zaoszczędzi Ci godzinę w miesiącu, subskrypcja się zwraca. Wiesz, ile jest warta Twoja godzina pracy.
+Tyle że AI Ninjas to nie kurs. Nie ma tu 40 godzin materiału do zaliczenia ani poczucia, że jesteś w tyle z lekcjami.
 
-**2. „To za drogo.”**
+**[H2] Jak to wygląda w praktyce**
 
-Z rabatem pierwszy miesiąc kosztuje [CENA -30%] zł. To około [CENA DZIENNIE] zł dziennie.
+→ **Masz konkretny problem.** Na przykład chcesz, żeby agent co rano przysyłał Ci plan dnia. Bierzesz gotową procedurę z biblioteki i wdrażasz ją tego samego wieczoru.
 
-Pewnie płacisz już za Claude, ChatGPT albo inne narzędzie AI. To zwykle ok. 20 dolarów miesięcznie.
+→ **Utkniesz?** Wrzucasz zrzut ekranu na forum. Odpowiadamy my albo ktoś, kto miał ten sam problem tydzień wcześniej.
 
-Pytanie brzmi: czy wyciągasz z tego narzędzia tyle, ile się da? Jeśli używasz go głównie do czatu, wykorzystujesz ułamek tego, za co płacisz.
+→ **Co tydzień Weekly na żywo.** Przychodzisz ze swoim projektem albo po prostu słuchasz, jak inni rozwiązują swoje.
 
-AI Ninjas jest po to, żeby te narzędzia zaczęły na Ciebie pracować.
+→ **Co 2 tygodnie warsztat.** W przyszłym tygodniu warsztat pogłębiający z Hermesa: krok po kroku pokażemy, jak postawić u siebie agenta z wtorkowego live.
 
-[ANULOWANIE]
+Kursy też są w środku (Claude Code, Hermes Agent, lokalne modele, aplikacje z AI), do tego nagrania 19 warsztatów. Nikt Cię z nich nie rozlicza. Sięgasz po nie, kiedy czegoś potrzebujesz.
 
-**[PRZYCISK] Dołączam za [CENA -30%] zł** → [LINK]
+Jedno Weekly w tygodniu i jedna procedura wdrożona u siebie to już więcej niż kurs, który leży nieotwarty.
 
-[PODPIS]
+> **Do 23:59** pierwszy miesiąc kosztuje **104,30 zł zamiast 149 zł**. Od jutra cena wraca do 149 zł.
 
-PS. O [GODZINA KOŃCA] cena wraca do [CENA] zł.
+**[Przycisk] Wchodzę do AI Ninjas →**
 
-PS2. Jeśli już dołączyłeś, dzięki. Ten mail możesz pominąć.
+14 dni gwarancji zwrotu, 100%, bez pytań.
+Rezygnujesz jednym kliknięciem, bez okresu wypowiedzenia.
 
----
+Do usłyszenia,
+Krzysiek z AI Ninjas
 
-## MAIL 3: 19:00
-
-**Temat A:** 🕵️‍♂️ 5 powodów, żeby NIE dołączać do AI Ninjas
-**Temat B:** 🕵️‍♂️ „Nie jestem programistą” i inne powody, żeby się wstrzymać
-**Preheader:** Co o każdym z nich myślę. Rabat kończy się dziś o [GODZINA KOŃCA].
-
----
-
-Cześć!
-
-Zostało kilka godzin rabatu, więc przejdę przez powody, dla których możesz się wahać. Każdy z nich jest uczciwy.
-
-**„Nie jestem programistą.”**
-
-Nie musisz być. Claude Code, agentów i automatyzacje pokazuję tak, żeby dało się je skopiować i uruchomić bez pisania kodu.
-
-Jeśli przeszedłeś mój poradnik „Opanuj Claude w 27 minut”, dasz sobie radę.
-
-**„AI zmienia się co tydzień. Za miesiąc to będzie nieaktualne.”**
-
-Zmienia się. Tylko w ostatnich tygodniach przez ten newsletter przeszły GPT-6 Astra, Opus 5.5, Kling 4.0, Claude MODS i Herdr.
-
-Dlatego AI Ninjas to subskrypcja, a nie kurs nagrany raz na rok. Dostajesz to, co działa teraz.
-
-**„Na YouTube jest wszystko za darmo.”**
-
-Jest. Sam wrzucam tam filmy i dalej będę.
-
-Różnica jest taka: na YouTube sam szukasz, oglądasz 5 filmów i sprawdzasz, które są jeszcze aktualne. W AI Ninjas dostajesz [PUNKT 1].
-
-**„A jak mi się nie spodoba?”**
-
-[ANULOWANIE] Ryzykujesz [CENA -30%] zł i jeden miesiąc.
-
-**„Dołączę później.”**
-
-Możesz. Tylko później to [CENA] zł zamiast [CENA -30%] zł.
-
-**[PRZYCISK] Dołączam do AI Ninjas -30%** → [LINK]
-
-[PODPIS]
-
-PS. Rabat kończy się dziś o [GODZINA KOŃCA]. Jeśli coś Cię blokuje, odpisz na tego maila.
-
-PS2. Jeśli już dołączyłeś, dzięki. Ten mail możesz pominąć.
+PS. Masz pytanie, zanim dołączysz? Odpisz na tego maila.
 
 ---
 
-## MAIL 4: 22:00
+## MAIL 3: 20:00
 
-**Temat A:** 🕵️‍♂️ Zostały 2 godziny (-30% znika o [GODZINA KOŃCA])
-**Temat B:** 🕵️‍♂️ Ostatni mail o AI Ninjas
-**Preheader:** Potem cena wraca do [CENA] zł.
+**Temat:** 🥷 „To nie dla mnie, nie jestem techniczny”
+**Preheader:** 60% osób w AI Ninjas jest na poziomie podstawowym. Do 23:59 -30%.
+
+**[H1] „To nie dla mnie, nie jestem techniczny”**
+
+Cześć {$name},
+
+na wtorkowym warsztacie agent robił sporo rzeczy naraz. Łatwo wtedy pomyśleć: „fajne, ale to dla kogoś bardziej technicznego”.
+
+Jeśli też tak pomyślałeś, ten mail jest dla Ciebie. Trzy rzeczy, które warto wiedzieć:
+
+→ **60% osób w AI Ninjas jest na poziomie podstawowym.** Są wśród nich marketerzy, właściciele małych firm i twórcy treści. Dlatego w środku jest ścieżka od podstaw: od pierwszej rozmowy z modelem do własnego agenta.
+
+→ **Agenta postawimy razem.** Na warsztacie pogłębiającym z Hermesa w przyszłym tygodniu przechodzimy przez konfigurację krok po kroku. Jeśli coś nie działa, pytasz na żywo.
+
+→ **Nie zostajesz sam z błędem.** Wrzucasz zrzut ekranu na forum i dostajesz podpowiedź. Pod filmem na YouTube nikt Ci nie powie, co jest nie tak w Twojej konfiguracji.
+
+**[H2] A jeśli to jednak nie dla Ciebie?**
+
+Masz 14 dni, żeby sprawdzić wszystko od środka. Jeśli uznasz, że to nie to, piszesz jedno zdanie i oddajemy 100%. Nie pytamy o powód.
+
+Chcesz zajrzeć do środka jeszcze przed zakupem? Jedna lekcja z kursu Fundamenty AI jest dostępna bez logowania:
+→ Jak pisać dobre prompty (Framework R-F-K-A) (https://aininjas.pl/priv/d599ecfd-f26a-47fa-992c-2195f921cc7b/)
+
+> **Do 23:59** pierwszy miesiąc kosztuje **104,30 zł zamiast 149 zł**. To niecałe 3,50 zł dziennie.
+
+**[Przycisk] Dołączam za 104,30 zł →**
+
+14 dni gwarancji zwrotu, 100%, bez pytań.
+Rezygnujesz jednym kliknięciem w ustawieniach.
+
+Do usłyszenia,
+Krzysiek z AI Ninjas
 
 ---
 
-Cześć!
+## MAIL 4: 22:30
 
-Ostatni mail w tej sprawie.
+**Temat:** 🔴 Zostało 1,5 h. Potem 149 zł
+**Preheader:** Ostatni mail w tej sprawie, obiecuję.
 
-O [GODZINA KOŃCA] kończy się rabat 30% na pierwszy miesiąc AI Ninjas.
+**[H1] Ostatnie 1,5 godziny**
 
-**W skrócie:**
+Cześć {$name},
 
-→ [CENA -30%] zł zamiast [CENA] zł za pierwszy miesiąc
-→ [PUNKT 1]
-→ [PUNKT 2]
-→ [ANULOWANIE]
+to ostatni mail w tej sprawie, obiecuję.
 
-Jeśli od południa masz to z tyłu głowy, to jest dobry moment.
+O 23:59 kończy się zniżka. Od jutra pierwszy miesiąc w AI Ninjas kosztuje 149 zł zamiast 104,30 zł.
 
-**[PRZYCISK] Dołączam, zanim cena wróci** → [LINK]
+W skrócie, co dostajesz:
 
-Jeśli nie, w porządku. Od przyszłego tygodnia wracam do zwykłych maili z poradnikami.
+→ **warsztat pogłębiający z Hermesa** w przyszłym tygodniu: krok po kroku stawiamy u Ciebie agenta z wtorku
+→ **skille z wtorkowego demo**
+→ **Weekly na żywo co tydzień**, z Twoimi pytaniami
+→ **warsztat z ekspertem co 2 tygodnie** i nagrania 19 poprzednich
+→ **kursy, biblioteka gotowych procedur i forum**, gdzie ktoś Ci podpowie, gdy utkniesz
 
-[PODPIS]
+Jeśli od wtorku masz to z tyłu głowy, to dobry moment.
 
-PS. Jeśli już dołączyłeś, dzięki. Ten mail możesz pominąć.
+**[Przycisk] Wchodzę, zanim cena wróci →**
 
----
+14 dni gwarancji zwrotu, 100%, bez pytań.
+Rezygnujesz jednym kliknięciem.
 
-## 💡 Co by jeszcze wzmocniło maile
+A jeśli nie teraz, w porządku. Dalej będziesz dostawać od nas darmowe lekcje i zaproszenia na otwarte warsztaty.
 
-- **Prawdziwa opinia osoby z AI Ninjas** (1–2 zdania z imieniem) w mailu 3. To najmocniejsza odpowiedź na „a jak mi się nie spodoba?”. Wstaw tylko prawdziwą wypowiedź.
-- **Liczba osób, które już dołączyły** w mailu 4 (np. „Dołączyło już X osób”). Tylko jeśli masz realną liczbę.
-- **Jeden konkretny przykład z ostatniego wydania AI Ninjas** w mailu 1 albo 2. Konkret sprzedaje lepiej niż lista punktów.
+Do usłyszenia,
+Krzysiek z AI Ninjas
